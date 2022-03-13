@@ -1,0 +1,4 @@
+{
+    "prefix": "-",
+    "Token": "Eğer botunuzu kendi bilgisayarınızda veya sanal bir sunucuda çalıştıracaksanız bu kısma bot tokeninizi yazın ardından botun ana dosyası olan index.js kısmının en altına client.login(config.Token) kodunu ekleyin."
+}
