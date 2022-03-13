@@ -1,4 +1,13 @@
 {
+  "version": "3.0.0",
+  "description": "Eien Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "croxydb": "^0.0.7",
     "discord.js": "^13.6.0",
